@@ -37,14 +37,14 @@
    The rest should be self explanatory
    
 # Extra Information on Email
-- For smtp to work with your email you need to turn on "Less secure app access"
+**For smtp to work with your email you need to turn on "Less secure app access"**
 - If you don't your gmail will likely block the emails you send through this program
 - Due to this its recommended you use a throwaway email account.
 
 # Filling Subscription_list
--Just populate this file with all the emails you wish to send your memes to.
--Should be formatted with one email per line.
+- Just populate this file with all the emails you wish to send your memes to.
+- Should be formatted with one email per line.
 
 # Running the Code
--When you run this you will need to run it with 2 command line arguments. 
--Those being the both the Client_info and subscription_list text files
+- When you run this you will need to run it with 2 command line arguments. 
+- Those being the both the Client_info and subscription_list text files
