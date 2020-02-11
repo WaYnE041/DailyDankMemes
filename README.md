@@ -3,20 +3,20 @@ Scrapes Reddit and Emails Memes from reddit
 
 # What You'll Need
 sys library-
-      To send in command line arguments
+- To send in command line arguments
 The PRAW API-
-      To scrape Reddit
+- To scrape Reddit
 smtplib & ssl library-
-      To send emails through python
+- To send emails through python
 MIMEMultipart & MIMEText-
-      To format the text and html of the emails
+- To format the text and html of the emails
 
 # Filling Client_info
 Follow these directions  each Blank space with the appropriate data
 
   Email Counter-
-        -Just used to keep a running counter of how many times function is run(default should be 1). 
-        -After each run this number increments
+- Just used to keep a running counter of how many times function is run(default should be 1). 
+- After each run this number increments
         -This number will be displayed at end of email's subject line.
   client id, client secret, user_agent-
         -To obtain these go to this webpage https://www.reddit.com/prefs/apps
